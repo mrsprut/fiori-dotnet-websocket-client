@@ -1,0 +1,7 @@
+specVersion: '2.4'
+metadata:
+  name: fiori-dotnet-websocket
+type: application
+framework:
+  name: SAPUI5
+  version: "1.91.1"
